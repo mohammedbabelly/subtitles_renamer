@@ -15,4 +15,4 @@ For Ubuntu - use apt-get:
 sudo apt install python3
 ```
 
-Then run `python script.py`, and enjoy 🍿.
+Then run `python script.py`, select your season folder, select your subtitles folder, and enjoy 🍿.
